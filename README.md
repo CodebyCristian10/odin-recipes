@@ -1,2 +1,2 @@
 # odin-recipes
-this is a project to present a the odin project and consist in a web page with all the elements and attributes then i learn throght this section like: headline, text, images, links, and many more. I expect apply problem solution skills and write code like a profesional.
+This is a project to present to The Odin Project. It consists of a web page featuring all the elements and attributes I've learned throughout this section, such as headlines, text, images, links, and more. I expect to apply problem-solving skills and write code like a professional.
